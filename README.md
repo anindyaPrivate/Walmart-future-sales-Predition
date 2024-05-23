@@ -32,7 +32,8 @@ This project is simple Prediction of retail store.
 	
 ## Technologies
 Project is created with:
-* [Python ](https://img.shields.io/badge/Python-blue)
+* <img alt="Static Badge" src="https://img.shields.io/badge/Python-blue">
+
 
 * Statistics tools
 * Google Colab
