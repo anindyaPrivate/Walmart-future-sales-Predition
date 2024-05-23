@@ -20,6 +20,6 @@ Sales Forecasting: Utilize predictive modeling techniques to forecast the sales 
 
 By addressing these objectives, the project seeks to uncover the key drivers of sales performance, identify areas for improvement, and provide reliable sales forecasts to enhance the retail chain's inventory management and operational efficiency.
 
-#DataSet Description
+# DataSet Description
 ![Screenshot 2024-05-23 123002](https://github.com/anindyaPrivate/Walmart-future-sales-Predition/assets/87466374/5bfbf120-165e-4258-85ea-2a5c063355f1)
 
