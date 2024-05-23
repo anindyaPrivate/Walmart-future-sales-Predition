@@ -28,7 +28,7 @@ By addressing these objectives, the project seeks to uncover the key drivers of 
 * [Technologies](#technologies)
 
 ## General info
-This project is simple Lorem ipsum dolor generator.
+This project is simple Prediction of retail store.
 	
 ## Technologies
 Project is created with:
