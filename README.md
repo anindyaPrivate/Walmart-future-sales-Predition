@@ -34,6 +34,8 @@ This project is simple Prediction of retail store.
 Project is created with:
 
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-blue"><img alt="Static Badge" src="https://img.shields.io/badge/3.9-gray">
-* Statistics tools
-* Google Colab
+<img alt="Static Badge" src="https://img.shields.io/badge/Statistical-white"><img alt="Static Badge" src="https://img.shields.io/badge/tool-blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/GoogleColab-orange">https://img.shields.io/badge/Notebook-gray
+
+
 
