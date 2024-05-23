@@ -23,3 +23,16 @@ By addressing these objectives, the project seeks to uncover the key drivers of 
 # DataSet Description
 ![Screenshot 2024-05-23 123002](https://github.com/anindyaPrivate/Walmart-future-sales-Predition/assets/87466374/5bfbf120-165e-4258-85ea-2a5c063355f1)
 
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+
+## General info
+This project is simple Lorem ipsum dolor generator.
+	
+## Technologies
+Project is created with:
+* Python 
+* Statistics tools
+* Google Colab
+
